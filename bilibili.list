@@ -10,12 +10,3 @@ DOMAIN-SUFFIX,s1.hdslb.com
 DOMAIN-SUFFIX,i1.hdslb.com
 DOMAIN-SUFFIX,
 DOMAIN-SUFFIX,
-
-#IP段匹配
-IP-CIDR,47.246.16.225,no-resolve
-IP-CIDR,103.151.151.44,no-resolve
-IP-CIDR,139.155.176.138,no-resolve
-IP-CIDR,120.92.218.147,no-resolve
-IP-CIDR,159.75.113.64,no-resolve
-IP-CIDR,103.151.151.46,no-resolve
-IP-CIDR,164.52.33.182,no-resolve
