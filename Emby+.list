@@ -2,6 +2,8 @@
 #定向prprcloud
 
 #域名后缀匹配
+DOMAIN-SUFFIX,aaa.ax
+DOMAIN-SUFFIX,mjjemby.org
 DOMAIN-SUFFIX,mjjemby.net
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,emby.prprcloud.com
