@@ -3,6 +3,8 @@
 
 #域名后缀匹配
 DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,123emby.quest
+DOMAIN-SUFFIX,pornemby.xyz
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,emby.222921.xyz
 IP-CIDR,89.58.52.68/22
