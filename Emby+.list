@@ -3,20 +3,19 @@
 
 #域名后缀匹配
 DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,bili.rip
+DOMAIN-SUFFIX,mulgore.net
 DOMAIN-SUFFIX,transferfly.net
 DOMAIN-SUFFIX,123emby.quest
 DOMAIN-SUFFIX,pornemby.xyz
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,222921.xyz
-IP-CIDR,89.58.52.68/22
 DOMAIN-SUFFIX,catfishemby.club
 DOMAIN-SUFFIX,infinityfly.top
 DOMAIN-SUFFIX,aaa.ax
 DOMAIN-SUFFIX,mjjemby.org
-DOMAIN-SUFFIX,mjjemby.net
 DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,emby.prprcloud.com
-IP-CIDR,89.58.51.83/22
+DOMAIN-SUFFIX,prprcloud.com
 DOMAIN-SUFFIX,embymv.tk
 DOMAIN-SUFFIX,emby-peach.blueseacdn.com
 DOMAIN-SUFFIX,prpr.kyarucloud.moe
